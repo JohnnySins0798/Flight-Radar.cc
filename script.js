@@ -4,12 +4,12 @@ const products = [
   {
     title: "Basic Flight Tracker",
     description: "Access real-time flight data with our basic tracking tool.",
-    price: "$29.99",
+    price: "€8",
     salePrice: null,
     duration: "1 Month",
     isSale: false,
     isFeatured: false,
-    releaseDate: "2024-01-15",
+    releaseDate: "Mar 15 2025",
     systemRequirements: [
       "Modern web browser",
       "Internet connection",
@@ -24,12 +24,12 @@ const products = [
   {
     title: "Premium Flight Tracker",
     description: "Enhanced flight tracking with additional features for aviation enthusiasts.",
-    price: "$79.99",
+    price: "€15",
     salePrice: "$59.99",
-    duration: "6 Months",
-    isSale: true,
+    duration: "3 Months",
+    isSale: false,
     isFeatured: false,
-    releaseDate: "2024-02-20",
+    releaseDate: "Mar 15 2025",
     systemRequirements: [
       "Modern web browser",
       "Internet connection",
@@ -45,12 +45,12 @@ const products = [
   {
     title: "Professional Flight Tracker",
     description: "Full-featured flight tracking solution for professionals and businesses.",
-    price: "$149.99",
+    price: "€30",
     salePrice: null,
-    duration: "12 Months",
+    duration: "LIFETIME",
     isSale: false,
-    isFeatured: true,
-    releaseDate: "2024-03-10",
+    isFeatured: false,
+    releaseDate: "Mar 15 2025",
     systemRequirements: [
       "Modern web browser",
       "High-speed internet connection",
