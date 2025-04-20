@@ -11,9 +11,10 @@ const products = [
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-      "Modern web browser",
+      "Windows 10/11 - 64-Bit and 32-BitLatest",
+      "DirectX",
+      "VC_Redist.x86 and C++ Redistributable x64",
       "Internet connection",
-      "No installation required"
     ],
     features: [
       "Basic flight information",
@@ -31,9 +32,10 @@ const products = [
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-      "Modern web browser",
-      "Internet connection",
-      "1GB RAM minimum"
+    "Windows 10/11 - 64-Bit and 32-BitLatest",
+    "DirectX",
+    "VC_Redist.x86 and C++ Redistributable x64",
+    "Internet connection",
     ],
     features: [
       "Real-time flight data",
@@ -52,10 +54,10 @@ const products = [
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-      "Modern web browser",
-      "High-speed internet connection",
-      "2GB RAM recommended",
-      "Screen resolution 1280x720 or higher"
+      "Windows 10/11 - 64-Bit and 32-BitLatest",
+      "DirectX",
+      "VC_Redist.x86 and C++ Redistributable x64",
+      "Internet connection",
     ],
     features: [
       "Real-time global coverage",
