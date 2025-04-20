@@ -3,7 +3,7 @@
 const products = [
   {
     title: "FLIGHT-RADAR 1 MONTH",
-    description: "Access real-time flight data with our basic tracking tool.",
+    description: "Licensekey for 1 Month",
     price: "€8",
     salePrice: null,
     duration: "1 Month",
@@ -11,7 +11,7 @@ const products = [
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-      "Windows 10/11 - 64-Bit and 32-BitLatest",
+      "Windows 10/11 - 64-Bit and 32-Bit Latest",
       "DirectX",
       "VC_Redist.x86 and C++ Redistributable x64",
       "Internet connection",
@@ -24,15 +24,15 @@ const products = [
   },
   {
     title: "FLIGHT-RADAR 3 MONTHS",
-    description: "Enhanced flight tracking with additional features for aviation enthusiasts.",
+    description: "License Key 3 Months",
     price: "€15",
-    salePrice: "$59.99",
+    salePrice: null,
     duration: "3 Months",
     isSale: false,
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-    "Windows 10/11 - 64-Bit and 32-BitLatest",
+    "Windows 10/11 - 64-Bit and 32-Bit Latest",
     "DirectX",
     "VC_Redist.x86 and C++ Redistributable x64",
     "Internet connection",
@@ -45,8 +45,8 @@ const products = [
     ]
   },
   {
-    title: "FLIGHT-RADAR LIFRTIME",
-    description: "Full-featured flight tracking solution for professionals and businesses.",
+    title: "FLIGHT-RADAR LIFETIME",
+    description: "License key LIFETIME",
     price: "€30",
     salePrice: null,
     duration: "LIFETIME",
@@ -54,7 +54,7 @@ const products = [
     isFeatured: false,
     releaseDate: "Mar 15 2025",
     systemRequirements: [
-      "Windows 10/11 - 64-Bit and 32-BitLatest",
+      "Windows 10/11 - 64-Bit and 32-Bit Latest",
       "DirectX",
       "VC_Redist.x86 and C++ Redistributable x64",
       "Internet connection",
