@@ -2,7 +2,7 @@
 // Product data
 const products = [
   {
-    title: "Basic Flight Tracker",
+    title: "FLIGHT-RADAR 1 MONTH",
     description: "Access real-time flight data with our basic tracking tool.",
     price: "€8",
     salePrice: null,
@@ -23,7 +23,7 @@ const products = [
     ]
   },
   {
-    title: "Premium Flight Tracker",
+    title: "FLIGHT-RADAR 3 MONTHS",
     description: "Enhanced flight tracking with additional features for aviation enthusiasts.",
     price: "€15",
     salePrice: "$59.99",
@@ -45,7 +45,7 @@ const products = [
     ]
   },
   {
-    title: "Professional Flight Tracker",
+    title: "FLIGHT-RADAR LIFRTIME",
     description: "Full-featured flight tracking solution for professionals and businesses.",
     price: "€30",
     salePrice: null,
